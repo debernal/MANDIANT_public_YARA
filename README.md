@@ -1,0 +1,1 @@
+This repository holds a compilation of MANDIANT publicly available YARA rules provided through MANDIANT blog. I only added the blog URL as a reference for the rules, no other change was done. If you want to send comments about the rules, please contact Mandiant through the public blog references on the rules, as I cannot modify them.
